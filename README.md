@@ -5,6 +5,7 @@ Go to C:\Users\USER\AppData\Local\slack\app-3.3.3\resources\app.asar.unpacked\sr
 Open ssb-interop.js
 
 Add to bottom of file
+
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
    url: 'https://raw.githubusercontent.com/fremler/dark-slack-theme/master/black.css',
